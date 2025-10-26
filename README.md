@@ -1,5 +1,5 @@
 # 💫 About Me: Hi! I'm Zohaib Khan
-Full-Stack Web Developer specializing in building modern, scalable applications. My core technology stack is the React frontend and the Django/Django Rest Framework (DRF) backend, enabling me to deliver robust, end-to-end solutions efficiently.<br>Email: zk510873@gmail.com
+Full-Stack Web Developer specializing in building modern, scalable applications. My core technology stack is the React frontend and the Django/Django Rest Framework (DRF) backend, enabling me to deliver robust, end-to-end solutions efficiently.
 
 
 # 💻 Tech Stack:
