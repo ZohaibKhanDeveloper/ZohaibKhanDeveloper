@@ -4,7 +4,33 @@ Full-Stack Web Developer specializing in building modern, scalable applications.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<h1>🎓Courses & Certifications</h1>
+<h1>🏫 Education</h1>
+<ul>
+  <li>
+    <i>Bachelor of Computer Science</i> | <b><i>Islamia College University Peshawer</i></b> | 2022-2026
+    <ul>
+      <li>Cumulative GPA: <b>3.67 / 4 (6th Semester)</b></li>
+      <li>Current Semester: <b>7<sup>th</sup></b></li>
+    </ul>
+  </li>
+  <li>
+    <i>Faculty of Computer Science</i> | <b><i>Islamia College University Peshawer</i></b> | 2020-2022 | HSSC | <b><i>Board of Intermediate & Secondary Education Peshawer</i></b>
+    <ul>
+      <li>Marks: <b>944 / 1100</b></li>
+      <li>Percentage: <b>85.81 %</b></li>
+      <li>Grade: <b>A1</b></li>
+    </ul>
+  </li>
+   <li>
+    <i>Secondary School Certificate</i> | <b><i>The Khyber Model School & College Mushterzai Peshawer</i></b> | 2018-2020 | SSC | <b><i>Board of Intermediate & Secondary Education Peshawer</i></b>
+    <ul>
+      <li>Marks: <b>944 / 1100</b></li>
+      <li>Percentage: <b>85.81 %</b></li>
+      <li>Grade: <b>A1</b></li>
+    </ul>
+  </li>
+</ul>
+<h1>🎓 Courses & Certifications</h1>
 <ul>
   <li>C++ Programming (Programming Hero)  <a href='https://uat.programming-hero.com/certificates/PH3107' target='_blank'>Verify Certificate</a> </li>
   <li>Basic Web development (Programming Hero)  <a href='https://uat.programming-hero.com/certificates/PH4007' target='_blank'>Verify Certificate</a> </li> 
