@@ -29,7 +29,7 @@ Full-Stack Web Developer specializing in building modern, scalable applications.
       <li>Coding Interview Preperation <a href='https://coursera.org/share/39e21bc7259fffa2d5c00a03dae01adb' target='_blank'>Verify Certificate</a> </li>
     </ul>
   </li>
-  <li>Python for Data Science & AI (IBM | Coursera) <a href='https://coursera.org/share/cb15498333a0860a5a7d281ee8008357'></a></li>
+  <li>Python for Data Science & AI (IBM | Coursera) <a href='https://coursera.org/share/cb15498333a0860a5a7d281ee8008357'>Verify Certificate</a></li>
 </ul>
 
 # 📊 GitHub Stats:
