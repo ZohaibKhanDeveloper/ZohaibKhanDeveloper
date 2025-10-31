@@ -21,9 +21,9 @@ Full-Stack Web Developer specializing in building modern, scalable applications.
       <li>Introduction to Backend Development <a href='https://coursera.org/share/57c6a0a5bb3d70d0330db030f047aa98' target='_blank'>Verify Certificate</a> </li>
       <li>Programming in Python <a href='https://coursera.org/share/04663b1445b4a56cfe0a9372b9c381af' target='_blank'>Verify Certificate</a> </li>
       <li>Version Control <a href='https://coursera.org/share/f0aa3e9a575f775e3bce4c00e3b5c4f5' target='_blank'>Verify Certificate</a> </li>
-      <li>Introduction to Backend Development <a href='https://coursera.org/share/f93568ccbe65910e5d59e5da133ea7db' target='_blank'>Verify Certificate</a> </li>
+      <li>Introduction to Databases for Backend Development <a href='https://coursera.org/share/f93568ccbe65910e5d59e5da133ea7db' target='_blank'>Verify Certificate</a> </li>
       <li>Django Web Framework <a href='https://coursera.org/share/8c4a3b030f19bc5045bbca6cf8540ff6' target='_blank'>Verify Certificate</a> </li>
-      <li>Application Programming Interfaces (APIs) <a href='https://coursera.org/share/8c4a3b030f19bc5045bbca6cf8540ff6' target='_blank'>Verify Certificate</a> </li>
+      <li>Application Programming Interfaces (APIs) <a href='https://coursera.org/share/c690ffb24517cbcf664d5139d343be15' target='_blank'>Verify Certificate</a> </li>
       <li>The Full Stack <a href='https://coursera.org/share/8ccb6a1bed10228c8c1720f02020206a' target='_blank'>Verify Certificate</a> </li>
       <li>Backend Developer Capstone Project <a href='https://coursera.org/share/e7f6f5a31e94238b7dbf53ab4e3d39b4' target='_blank'>Verify Certificate</a> </li>
       <li>Coding Interview Preperation <a href='https://coursera.org/share/39e21bc7259fffa2d5c00a03dae01adb' target='_blank'>Verify Certificate</a> </li>
