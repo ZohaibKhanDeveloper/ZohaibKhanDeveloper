@@ -10,7 +10,7 @@ Full-Stack Web Developer specializing in building modern, scalable applications.
     <i>Bachelor of Computer Science</i> | <b><i>Islamia College University Peshawer</i></b> | 2022-2026
     <ul>
       <li>Cumulative GPA: <b>3.67 / 4 (6th Semester)</b></li>
-      <li>Current Semester: <b>7<sup>th</sup></b></li>
+      <li>Current Semester: <b>8<sup>th</sup></b></li>
     </ul>
   </li>
   <li>
